@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,5 +11,6 @@
 <body>
     <h1>Ez a view file</h1>
     <p>{{$post}}</p>
+    <p>length: {{ $length }} character(s)</p>
 </body>
 </html>
